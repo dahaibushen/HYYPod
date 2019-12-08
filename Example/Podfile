@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HYYPod_Tests' do
+  pod 'HYYPod', :path => '../'
+  
+  
+end
